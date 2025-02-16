@@ -1,0 +1,6 @@
+openai
+elevenlabs
+requests
+streamlit
+flask
+python-dotenv
