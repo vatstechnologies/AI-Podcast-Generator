@@ -1,7 +1,6 @@
 flask
-flask-cors
 requests
 openai
 elevenlabs
-hygen
 python-dotenv
+gunicorn
